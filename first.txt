@@ -1,0 +1,1 @@
+Testing adding file inti git without pushing into staging area.
